@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027878828175",
+    "project_id": "aquaboom-6e0dc",
+    "storage_bucket": "aquaboom-6e0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027878828175:android:705b18e4be0891247098fa",
+        "android_client_info": {
+          "package_name": "com.example.aquaboom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027878828175-gaf6apgrbbu6gg2idloenjo8kugmqinc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquaboom",
+            "certificate_hash": "6ec577dc353954518ffa83118e695837df225540"
+          }
+        },
+        {
+          "client_id": "1027878828175-uh8tbvc83lelip57ehmb0q2oedmmk6ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0j8yHvRQbt4l7zmBqesBv_rbNoutKOH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027878828175-uh8tbvc83lelip57ehmb0q2oedmmk6ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
